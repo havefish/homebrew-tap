@@ -1,6 +1,6 @@
 cask "copypasta" do
   version "1.0.0"
-  sha256 "74cf84d687aac1d38682b2163e55fc421a6c9276aeeb13186b88a9cbbff81577"
+  sha256 "fe1ffe78f3a5b4a32a776bccaa26c2f6e6d1529b745028757c5163470cedba47"
 
   url "https://github.com/havefish/copypasta-releases/releases/download/v#{version}/CopyPasta-macOS-universal.zip"
   name "CopyPasta"
